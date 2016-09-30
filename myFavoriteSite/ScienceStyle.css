@@ -1,10 +1,21 @@
 ﻿body {
 }
 /*Ad Space*/
+.panel-body{
+    background-color: black;
+}
 #ad1Space {
     background-color: black;
     text-align:center;
 }
 #Ad1{
+    padding: 0;
     height:100px;
+}
+/*Header*/
+#navhead{
+    padding-left: 0;
+}
+#fakeLogo{
+    height:150px;
 }
