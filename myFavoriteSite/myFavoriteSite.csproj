@@ -94,6 +94,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\closeup-leaf.jpg" />
+    <Content Include="images\fakeLogo.jpg" />
+    <Content Include="images\fakeStore.jpg" />
+    <Content Include="images\FalkirkWheelSide_2004_SeanMcClean.jpg" />
+    <Content Include="images\gigabyte-motherboard.jpg" />
+    <Content Include="images\globe-architecture.jpg" />
+    <Content Include="images\guys-looking-at-map.jpg" />
+    <Content Include="images\pharmacy-guy.jpg" />
+    <Content Include="images\space-science-fiction-cosmos-blue_default.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -115,6 +124,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
